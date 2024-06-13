@@ -1,0 +1,11 @@
+Answer 1 : A programming language is a set of instructions that computers understand to perform tasks and process data.
+
+Answer 2 : We need programming languages to communicate instructions to computers in a way they can understand, enabling us to create software, automate tasks, analyze data, and solve complex problems efficiently.
+
+Answer 3 : Java features include platform independence, object-oriented programming, robustness, security, multithreading, dynamic memory allocation, architecture neutrality, high performance, distributed computing support, and a rich standard library.
+
+Answer 4 : In Java, an object is a basic unit of programming that represents a specific instance of a class. It contains data and methods related to that class, allowing programmers to organize and manipulate information effectively.
+
+Answer 5 : A class is a blueprint that defines the attributes and behaviors (methods) of objects. It serves as a template for creating instances (objects) with specific characteristics and functionalities.
+
+Answer 6 : The main method in Java is where the program starts executing. It has a specific signature (public static void main(String[] args)) and serves as the entry point for Java applications.
